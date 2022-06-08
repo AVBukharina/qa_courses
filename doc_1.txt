@@ -1,0 +1,9 @@
+id: 123
+head: неправильное название раздела в шапке сайта
+project: onlain shop
+version: Opera 87.0.4390.45
+severity: low
+priority: medium
+step: зайти на сайт магазина
+expected result: написано "Одежда"
+actual result: написано "Оджда"
